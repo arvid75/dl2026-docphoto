@@ -1,0 +1,12 @@
+data/raw/*
+data/work/*
+!data/**/.gitkeep
+models/*
+!models/.gitkeep
+submissions/*
+!submissions/.gitkeep
+*.pt
+*.pth
+.env
+wandb/
+__pycache__/
