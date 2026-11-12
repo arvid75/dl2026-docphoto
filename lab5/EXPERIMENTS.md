@@ -28,10 +28,4 @@ checkpoint `<path or link>`.
 
 ---
 
-**Status (lab day).** Code is ready: `configs/dropout03.yaml` (TASK 1, one
-change vs the reference) and `scripts/oof.py` (TASK 2). The four folds are
-**not trained yet** — training runs on a GPU machine later today (the lab's
-CPU route pins all cores). To finish: run the four folds of `reference` and
-`dropout03`, fill rows 0 and 1 with the fold and out-of-fold RMSEs, mark row 1
-yes/no, then predict + upload one submission to Kaggle (team `YZG13W`). See
-`RUN_GUIDE.md` for the exact commands.
+**Status:** training still ongoing; fold numbers and submission to follow.
